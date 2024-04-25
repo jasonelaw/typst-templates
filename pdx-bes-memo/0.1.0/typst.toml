@@ -5,3 +5,8 @@ entrypoint = "lib.typ"
 authors = ["Jason Law"]
 license = "MIT"
 description = "A Typst template for City of Portland Bureau of Environmental Services Memos - based on the official Word template"
+
+[template]
+path = "template"
+entrypoint = "template.typ"
+thumbnail = "thumbnail.png"
